@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BWXNIFDF
 
 [Document4]
-DocumentPath=CUFabricV2.BomDoc
+DocumentPath=CUSensor.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
