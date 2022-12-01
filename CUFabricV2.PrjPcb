@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for CUFabricV2
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=6D56360D-E145-4B0C-A76B-EE5E0C26AB21
 VaultGUID=79819C51-FDF7-45B5-B1E7-85C1B094EBEB
@@ -278,10 +278,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CUFabricV2\Design Rule Check - CUFabricV2_2.html
 DItemRevisionGUID=
 
-[GeneratedDocument28]
-DocumentPath=Project Outputs for CUFabricV2\Pick Place for CUSensor.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -331,7 +327,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for CUFabricV2
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
