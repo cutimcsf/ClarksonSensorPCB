@@ -278,6 +278,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CUFabricV2\Design Rule Check - CUFabricV2_2.html
 DItemRevisionGUID=
 
+[GeneratedDocument28]
+DocumentPath=Project Outputs for CUFabricV2\Design Rule Check - CUSensor.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
